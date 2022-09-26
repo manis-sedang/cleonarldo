@@ -1,0 +1,18 @@
+{
+  "name": "cleonarldo",
+  "main": "./lib/cleonarldo",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "cleonarldo:toggle"
+  },
+  "repository": "https://github.com/manis-sedang/cleonarldo",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
