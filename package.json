@@ -1,13 +1,13 @@
 {
   "name": "cleonarldo",
   "main": "./lib/cleonarldo",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "A short description of your package",
   "keywords": [
     "cleonarldo",
     "cleonarl"
   ],
-  "robots":"index, follow",
+  "robots": "index, follow",
   "activationCommands": {
     "atom-workspace": "cleonarldo:toggle"
   },
